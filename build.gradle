@@ -14,4 +14,5 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'com.google.guava:guava:26.0-jre'
+    compile 'io.vavr:vavr:0.9.2'
 }
